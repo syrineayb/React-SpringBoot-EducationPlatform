@@ -19,7 +19,7 @@ An online e-learning platform built with ReactJS for the frontend and Spring Boo
   - Video Calls with Teachers
 
  
-    ## Technologies Used
+ ## Technologies Used
 
 - ReactJS (Frontend)
 - Spring Boot (Backend)
